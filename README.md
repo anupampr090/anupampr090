@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - Create a portfolio showcasing my design, video editing, and web development projects.  
 
 ### 🔗 Let's Connect!  
-- [Instagram]([#](https://www.instagram.com/a_n_u_p_a_m_090/?hl=en))  
+- [Instagram](https://www.instagram.com/a_n_u_p_a_m_090?igsh=Nzh0YjZyNTdzMWZs)
 - [YouTube](#)  
 - [LinkedIn](#)  
 
