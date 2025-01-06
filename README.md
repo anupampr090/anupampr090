@@ -4,26 +4,24 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 🌟 About Me  
 - 🎓 **Engineering Student**: Currently pursuing my B.Tech in [Your Branch] from Kerala, India.  
-- 🎮 **Gamer**: Love playing **Valorant** (Gold Player, 1000 DPI, Medium-sized mouse).  
-- 🎥 **Content Creator**: Skilled in **video editing**, working on YouTube channels like *Kiddo Beats* for animated kids' songs.  
 - 🌱 **Nature Enthusiast**: Active in resource conservation and part of the **National Service Scheme (NSS)**.  
-- 🎉 **Organizer**: Host events like Onam programs and get-togethers for kids and parents.  
+- 🎨 **Creative Developer**: Passionate about **web development**, **designing**, and **creating engaging content** through videos and graphics.  
 
 ### ⚡ Interests & Skills  
-- 🖥️ **Tech**: Interested in improving PC performance, particularly for gaming FPS.  
-- 🤖 **Coding**: Learning about Gray code, Excess-3 code, and Data Networks.  
-- 🎨 **Creative**: Poster designing and Photoshop projects for events like industrial visits.  
-- 💡 **Entrepreneurial**: Exploring small business ideas with low investment.  
-- 💪 **Fitness**: Working out 5 days a week with a focus on arms, back, and overall muscle gain.  
+- 🌐 **Web Development**: Building functional and visually appealing websites with a focus on user experience.  
+- 🎥 **Video Editing**: Skilled in crafting professional and creative video content for platforms like *Kiddo Beats*.  
+- 🎨 **Designing**: Experienced in designing posters, banners, and digital content for various events and purposes.  
+- 🖥️ **Coding**: Exploring Gray code, Excess-3 code, and diving into Data Networks.  
+- 💡 **Entrepreneurial**: Interested in starting small-scale businesses with a creative touch.  
 
 ### 📈 Current Goals  
-- Build a motivational Instagram page and grow followers.  
-- Improve memory power with better learning techniques.  
-- Enhance my skills in software development and project management.  
+- Grow my presence on platforms like Instagram through motivational and creative reels.  
+- Enhance my expertise in web design and front-end development.  
+- Create a portfolio showcasing my design, video editing, and web development projects.  
 
 ### 🔗 Let's Connect!  
 - [Instagram](#)  
 - [YouTube](#)  
 - [LinkedIn](#)  
 
-Feel free to explore my repositories and connect with me on projects. Let’s grow and create something amazing together! 🚀 
+Feel free to explore my repositories and reach out for collaboration on design, development, or creative projects. Let’s innovate and create together! 🚀  
