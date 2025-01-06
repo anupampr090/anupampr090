@@ -21,4 +21,4 @@ Enhance my skills in software development and project management.
 Instagram
 YouTube
 LinkedIn
-Feel free to explore my repositories and connect with me on projects. Let’s grow and create something amazing together! 🚀
+Feel free to explore my repositories and connect with me on projects. Let’s grow and create something amazing together 🚀
